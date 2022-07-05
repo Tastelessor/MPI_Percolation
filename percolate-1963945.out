@@ -1,0 +1,29 @@
+percolate: running on 40 process(es)
+percolate: width = 480, height = 480, rho = 0.406400, seed = 8759, maxstep = 2400
+percolate: rho = 0.406400, actual density = 0.406901
+percolate: changes on step 100 is 39903, average map value: 49999.057062
+percolate: changes on step 200 is 28480, average map value: 56001.078134
+percolate: changes on step 300 is 18561, average map value: 61168.223863
+percolate: changes on step 400 is 12766, average map value: 63038.788772
+percolate: changes on step 500 is 8984, average map value: 63926.367161
+percolate: changes on step 600 is 4870, average map value: 64422.075469
+percolate: changes on step 700 is 2254, average map value: 64602.711693
+percolate: changes on step 800 is 972, average map value: 64630.635868
+percolate: changes on step 900 is 1899, average map value: 64634.326120
+percolate: changes on step 1000 is 1371, average map value: 64638.216354
+percolate: changes on step 1100 is 1199, average map value: 64641.182878
+percolate: changes on step 1200 is 908, average map value: 64643.526836
+percolate: changes on step 1300 is 723, average map value: 64645.624249
+percolate: changes on step 1400 is 672, average map value: 64647.073464
+percolate: changes on step 1500 is 525, average map value: 64648.575117
+percolate: changes on step 1600 is 320, average map value: 64649.314388
+percolate: changes on step 1700 is 220, average map value: 64650.056897
+Total time cost: 0.087381
+Map updating time cost: 0.000042
+percolate: cluster DOES percolate
+mapwrite: visualising the largest 2 clusters
+mapwrite: cluster sizes are 76693, 4740
+mapwrite: opening file <map.pgm>
+mapwrite: writing data ...
+mapwrite: ... done
+mapwrite: file closed
